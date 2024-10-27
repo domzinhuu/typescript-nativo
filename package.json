@@ -1,0 +1,17 @@
+{
+  "name": "javascript-typescript-vanilla",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch --experimental-strip-types src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "v22.9.0"
+  },
+  "type": "module",
+  "description": ""
+}
